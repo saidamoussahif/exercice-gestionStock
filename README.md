@@ -13,6 +13,7 @@ Ce projet permet de gérer les produits dans un stock, avec des fonctionnalités
 2. Exécutez la commande suivante pour installer les dépendances :
    ```bash
    npm install
+## L'ajout et la suppression du produit :
 
 ![image](https://github.com/user-attachments/assets/647e6977-970a-4d05-a075-64564ed0370a)
 
