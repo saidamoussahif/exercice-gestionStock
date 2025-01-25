@@ -14,4 +14,5 @@ Ce projet permet de gérer les produits dans un stock, avec des fonctionnalités
    ```bash
    npm install
 
-![image](https://github.com/user-attachments/assets/ee121adf-b109-48a2-a628-c7d73d5f8cb6)
+![image](https://github.com/user-attachments/assets/d7bcbc0a-b766-4141-a766-3e3fa0f46ec0)
+
