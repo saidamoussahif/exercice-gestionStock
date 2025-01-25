@@ -17,7 +17,7 @@ Ce projet permet de gérer les produits dans un stock, avec des fonctionnalités
 ![image](https://github.com/user-attachments/assets/647e6977-970a-4d05-a075-64564ed0370a)
 
 
-l'ajout d'un produit avec un code à barre déjà existe :
+## l'ajout d'un produit avec un code à barre déjà existe :
 
 ![image](https://github.com/user-attachments/assets/f999fd23-b650-4981-832c-306243f3f4fa)
 
